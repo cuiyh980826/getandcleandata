@@ -39,7 +39,7 @@ Output:
 3. meanfeature.txt: detail information about variables in the output dataset
 4. readme.md: explain  how the program work
 
-These files will be submitted to the github repo:
+These files will be submitted to the github repo : "https://github.com/cuiyh980826/getandcleandata/"
 
 Function by run_analysis.R
 ===========================
